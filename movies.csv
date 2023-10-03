@@ -1,0 +1,77 @@
+movie_id,name,year_release,rating,duration,director
+1,The Shawshank Redemption,1994,9.3,2h 22m,Frank Darabont
+2,The Godfather,1972,9.2,2h 55m,Francis Ford Coppola
+3,The Dark Knight,2008,9.0,2h 32m,Christopher Nolan
+4,The Godfather Part II,1974,9.0,3h 22m,Francis Ford Coppola
+5,12 Angry Men,1957,9.0,1h 36m,Sidney Lumet
+6,Schindler's List,1993,9.0,3h 15m,Steven Spielberg
+7,The Lord of the Rings: The Return of the King,2003,9.0,3h 21m,Peter Jackson
+8,Pulp Fiction,1994,8.9,2h 34m,Quentin Tarantino
+9,The Lord of the Rings: The Fellowship of the Ring,2001,8.8,2h 58m,Peter Jackson
+10,"The Good, the Bad and the Ugly",1966,8.8,2h 58m,Sergio Leone
+11,Forrest Gump,1994,8.8,2h 22m,Robert Zemeckis
+12,Fight Club,1999,8.8,2h 19m,David Fincher
+13,The Lord of the Rings: The Two Towers,2002,8.8,2h 59m,Peter Jackson
+14,Inception,2010,8.8,2h 28m,Christopher Nolan
+15,Star Wars: Episode V - The Empire Strikes Back,1980,8.7,2h 4m,Irvin Kershner
+16,The Matrix,1999,8.7,2h 16m,Lana Wachowski
+17,Goodfellas,1990,8.7,2h 25m,Martin Scorsese
+18,One Flew Over the Cuckoo's Nest,1975,8.7,2h 13m,Milos Forman
+19,Se7en,1995,8.6,2h 7m,David Fincher
+20,It's a Wonderful Life,1946,8.6,2h 10m,Frank Capra
+21,Seven Samurai,1954,8.6,3h 27m,Akira Kurosawa
+22,The Silence of the Lambs,1991,8.6,1h 58m,Jonathan Demme
+23,Saving Private Ryan,1998,8.6,2h 49m,Steven Spielberg
+24,City of God,2002,8.6,2h 10m,Fernando Meirelles
+25,Interstellar,2014,8.6,2h 49m,Christopher Nolan
+26,Life Is Beautiful,1997,8.6,1h 56m,Roberto Benigni
+27,The Green Mile,1999,8.6,3h 9m,Frank Darabont
+28,Star Wars: Episode IV - A New Hope,1977,8.6,2h 1m,George Lucas
+29,Terminator 2: Judgment Day,1991,8.6,2h 17m,James Cameron
+30,Back to the Future,1985,8.5,1h 56m,Robert Zemeckis
+31,Spirited Away,2001,8.6,2h 5m,Hayao Miyazaki
+32,The Pianist,2002,8.5,2h 30m,Roman Polanski
+33,Psycho,1960,8.5,1h 49m,Alfred Hitchcock
+34,Parasite,2019,8.5,2h 12m,Bong Joon Ho
+35,Léon: The Professional,1994,8.5,1h 50m,Luc Besson
+36,Gladiator,2000,8.5,2h 35m,Ridley Scott
+37,The Lion King,1994,8.5,1h 28m,Roger Allers
+38,American History X,1998,8.5,1h 59m,Tony Kaye
+39,The Departed,2006,8.5,2h 31m,Martin Scorsese
+40,Whiplash,2014,8.5,1h 46m,Damien Chazelle
+41,The Prestige,2006,8.5,2h 10m,Christopher Nolan
+42,The Usual Suspects,1995,8.5,1h 46m,Bryan Singer
+43,Casablanca,1942,8.5,1h 42m,Michael Curtiz
+44,Grave of the Fireflies,1988,8.5,1h 29m,Isao Takahata
+45,Harakiri,1962,8.6,2h 13m,Masaki Kobayashi
+46,The Intouchables,2011,8.5,1h 52m,Olivier Nakache
+47,Modern Times,1936,8.5,1h 27m,Charles Chaplin
+48,Once Upon a Time in the West,1968,8.5,2h 45m,Sergio Leone
+49,Cinema Paradiso,1988,8.5,2h 35m,Giuseppe Tornatore
+50,Rear Window,1954,8.5,1h 52m,Alfred Hitchcock
+51,Alien,1979,8.5,1h 57m,Ridley Scott
+52,City Lights,1931,8.5,1h 27m,Charles Chaplin
+53,Apocalypse Now,1979,8.4,2h 27m,Francis Ford Coppola
+54,Memento,2000,8.4,1h 53m,Christopher Nolan
+55,Django Unchained,2012,8.4,2h 45m,Quentin Tarantino
+56,Indiana Jones and the Raiders of the Lost Ark,1981,8.4,1h 55m,Steven Spielberg
+57,WALL·E,2008,8.4,1h 38m,Andrew Stanton
+58,The Lives of Others,2006,8.4,2h 17m,Florian Henckel von Donnersmarck
+59,Sunset Blvd.,1950,8.4,1h 50m,Billy Wilder
+60,Paths of Glory,1957,8.4,1h 28m,Stanley Kubrick
+61,The Shining,1980,8.4,2h 26m,Stanley Kubrick
+62,The Great Dictator,1940,8.4,2h 5m,Charles Chaplin
+63,Avengers: Infinity War,2018,8.4,2h 29m,Anthony Russo
+64,Witness for the Prosecution,1957,8.4,1h 56m,Billy Wilder
+65,Aliens,1986,8.4,2h 17m,James Cameron
+66,Spider-Man: Into the Spider-Verse,2018,8.4,1h 57m,Bob Persichetti
+67,American Beauty,1999,8.3,2h 2m,Sam Mendes
+68,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.4,1h 35m,Stanley Kubrick
+69,The Dark Knight Rises,2012,8.4,2h 44m,Christopher Nolan
+70,Inglourious Basterds,2009,8.3,2h 33m,Quentin Tarantino
+71,Oldboy,2003,8.4,2h,Park Chan-wook
+72,Amadeus,1984,8.4,2h 40m,Milos Forman
+73,Coco,2017,8.4,1h 45m,Lee Unkrich
+74,Toy Story,1995,8.3,1h 21m,John Lasseter
+75,Braveheart,1995,8.4,2h 58m,Mel Gibson
+76,Joker,2019,8.4,2h 2m,Todd Phillips
